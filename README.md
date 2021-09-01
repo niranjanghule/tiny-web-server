@@ -1,2 +1,2 @@
 # tiny-web-server
-A tiny web server implementation
+A java implementation to create a basic web server.
