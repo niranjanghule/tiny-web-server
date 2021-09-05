@@ -2,8 +2,8 @@
 A basic web server implementation using Java.
 
 ## What is this project?
-I watched @unclebob episode on creating your own web server.
-We can just quickly spin up our own web server ,rather than spending time on configuring a web server whose most feature we are not going to use.
+I watched Robert C. Martin's episode on creating your own web server.
+We can simply spin up our own web server, rather than spending time on configuring a web server whose many features are not used.
 This server can be modified as per our need though its not very powerful.
 
 ## What I learnt from this project?
